@@ -1,0 +1,7 @@
+flask==3.0.2
+flask-cors==4.0.0
+pandas==2.2.1
+seaborn==0.13.2
+numpy==1.26.4
+scipy==1.12.0
+statsmodels==0.14.1
